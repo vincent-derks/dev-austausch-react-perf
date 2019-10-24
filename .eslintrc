@@ -1,0 +1,9 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "react/jsx-filename-extension": "off",
+    "react/prop-types": "off",
+    "react/no-unescaped-entities": "off",
+    "arrow-parens": "off"
+  }
+}
