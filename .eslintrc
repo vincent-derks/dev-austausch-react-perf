@@ -4,6 +4,12 @@
     "react/jsx-filename-extension": "off",
     "react/prop-types": "off",
     "react/no-unescaped-entities": "off",
-    "arrow-parens": "off"
+    "arrow-parens": "off",
+    "no-unused-vars": "off",
+    "comma-dangle": "off"
+  },
+  "env": {
+    "browser": true,
+    "node": true
   }
 }
